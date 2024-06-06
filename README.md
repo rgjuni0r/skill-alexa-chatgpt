@@ -23,8 +23,18 @@ A API é paga por uso, ou seja por cada pergunta e resposta é cobrado alguns ce
   ```
 - Modifique no mesmo arquivo (lambda_function.py) pro modelo de sua preferência:
   ```python
+  MODEL = "gpt-3.5-turbo"
+  ```
+  ```python
   MODEL = "gpt-4"
   ```
+  ```python
+  MODEL = "gpt-4-turbo"
+  ```
+  ```python
+  MODEL = "gpt-4o"
+  ```
+
   Exemplos: "gpt-3.5-turbo", "gpt-4", "gpt-4-1106-preview"  
   [veja a lista completa de modelos aqui](https://platform.openai.com/docs/models)
 
