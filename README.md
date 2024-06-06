@@ -14,7 +14,7 @@ A API é paga por uso, ou seja por cada pergunta e resposta é cobrado alguns ce
   - Em tipo de experiência selecione: Other > Custom > Alexa-hosted (Python)  
   - Hosting region: Pode deixar o padrão (US East (N. Virginia))
   - Templates: Clique em Import Skill
-  - Insira o endereço: https://github.com/alexandremendoncaalvaro/skill-alexa-chatgpt4.git
+  - Insira o endereço: https://github.com/rgjuni0r/skill-alexa-chatgpt.git
 
 - Vá na aba "Code"
 - Insira sua chave no código: lambda > lambda_function.py:
